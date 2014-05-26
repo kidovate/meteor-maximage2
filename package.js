@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "REPLACEME - What does this package (or the original one you're wrapping) do?"
+  summary: "Easy background image silders."
 });
 
 Package.on_use(function (api, where) {

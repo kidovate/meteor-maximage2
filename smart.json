@@ -1,0 +1,9 @@
+{
+  "name": "maximage2",
+  "description": "MaxImage2 simplifies fullscreen background image cycles.",
+  "homepage": "https://github.com/akv2/MaxImage/",
+  "author": "Aaron Vanderzwan",
+  "version": "0.0.1",
+  "git": "https://github.com/kidovate/meteor-maximage2.git",
+  "packages": {"cycle": {}, "bootstrap-3": {}}
+}
